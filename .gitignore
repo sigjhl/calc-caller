@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Training outputs & generated data
+outputs/
+data/train.jsonl
+data/val.jsonl
+
+# HF cache
+.cache/
+
+# Wandb
+wandb/
+
+# Unsloth
+unsloth_compiled_cache/
+
+# Claude Code
+.claude/
+
+# Reference dataset (clone separately, see README)
+MedCalc-Bench-Verified/

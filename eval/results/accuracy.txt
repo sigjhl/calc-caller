@@ -1,0 +1,59 @@
+Calculator                                                    Acc    Cor/Tot
+--------------------------------------------------------------------------------
+APACHE II Score                                             40.0%    8/20
+Adjusted Body Weight                                       100.0%   20/20
+Albumin Corrected Anion Gap                                100.0%   20/20
+Albumin Corrected Delta Gap                                100.0%   20/20
+Albumin Corrected Delta Ratio                               90.0%   18/20
+Anion Gap                                                  100.0%   20/20
+Body Mass Index (BMI)                                      100.0%   20/20
+Body Surface Area Calculator                               100.0%   20/20
+CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk      70.0%   14/20
+CKD-EPI Equations for Glomerular Filtration Rate            95.0%   19/20
+CURB-65 Score for Pneumonia Severity                        90.0%   18/20
+Calcium Correction for Hypoalbuminemia                      80.0%   16/20
+Caprini Score for Venous Thromboembolism (2005)             40.0%    8/20
+Centor Score (Modified/McIsaac) for Strep Pharyngitis       50.0%   10/20
+Charlson Comorbidity Index (CCI)                            50.0%   10/20
+Child-Pugh Score for Cirrhosis Mortality                    80.0%   16/20
+Creatinine Clearance (Cockcroft-Gault Equation)            100.0%   20/20
+Delta Gap                                                  100.0%   20/20
+Delta Ratio                                                100.0%   20/20
+Estimated Date of Conception                               100.0%   20/20
+Estimated Due Date                                         100.0%   20/20
+Estimated Gestational Age                                  100.0%   20/20
+FeverPAIN Score for Strep Pharyngitis                       50.0%   10/20
+Fibrosis-4 (FIB-4) Index for Liver Fibrosis                 95.0%   19/20
+Fractional Excretion of Sodium (FENa)                       90.0%   18/20
+Framingham Risk Score for Hard Coronary Heart Disease       75.0%   15/20
+Free Water Deficit                                          95.0%   19/20
+Glasgow Coma Score (GCS)                                    75.0%   15/20
+Glasgow-Blatchford Bleeding Score (GBS)                     60.0%   12/20
+HAS-BLED Score for Major Bleeding Risk                      60.0%   12/20
+HEART Score for Major Cardiac Events                        20.0%    4/20
+HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) 100.0%   20/20
+Ideal Body Weight                                          100.0%   20/20
+LDL Calculated                                              95.0%   19/20
+MDRD GFR Equation                                          100.0%   20/20
+MELD Na (UNOS/OPTN)                                         90.0%   18/20
+Maintenance Fluids Calculations                            100.0%   20/20
+Mean Arterial Pressure (MAP)                               100.0%   20/20
+Morphine Milligram Equivalents (MME) Calculator            100.0%   20/20
+PERC Rule for Pulmonary Embolism                            80.0%   16/20
+PSI Score: Pneumonia Severity Index for CAP                 65.0%   13/20
+QTc Bazett Calculator                                      100.0%   20/20
+QTc Framingham Calculator                                  100.0%   20/20
+QTc Fridericia Calculator                                  100.0%   20/20
+QTc Hodges Calculator                                      100.0%   20/20
+QTc Rautaharju Calculator                                  100.0%   20/20
+Revised Cardiac Risk Index for Pre-Operative Risk           80.0%   16/20
+SIRS Criteria                                               70.0%   14/20
+Sequential Organ Failure Assessment (SOFA) Score            65.0%   13/20
+Serum Osmolality                                           100.0%   20/20
+Sodium Correction for Hyperglycemia                        100.0%   20/20
+Steroid Conversion Calculator                               85.0%   17/20
+Target weight                                              100.0%   20/20
+Wells' Criteria for DVT                                     80.0%   16/20
+Wells' Criteria for Pulmonary Embolism                      40.0%    8/20
+--------------------------------------------------------------------------------
+OVERALL                                                     84.6%  931/1100
