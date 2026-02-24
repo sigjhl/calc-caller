@@ -42,7 +42,7 @@ uv sync
 uv pip install "unsloth[cu128-torch2100]"  # adjust for your CUDA/torch version
 
 # Clone the reference dataset
-git clone https://github.com/ncbi-nlp/MedCalc-Bench-Verified.git
+git clone https://github.com/nikhilk7153/MedCalc-Bench-Verified.git
 ```
 
 ## Training
