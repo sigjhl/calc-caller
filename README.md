@@ -40,9 +40,24 @@ calc_caller/
 # Install dependencies
 uv sync
 uv pip install "unsloth[cu128-torch2100]"  # adjust for your CUDA/torch version
+```
 
-# Clone the reference dataset
+### Download the dataset
+
+The training and evaluation scripts expect the [MedCalc-Bench-Verified](https://github.com/nikhilk7153/MedCalc-Bench-Verified) dataset to be cloned into the repo root. This dataset is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is not included in this repository.
+
+```bash
 git clone https://github.com/nikhilk7153/MedCalc-Bench-Verified.git
+```
+
+After cloning, the expected layout is:
+
+```
+calc_caller/
+└── MedCalc-Bench-Verified/
+    └── datasets/
+        ├── train_data.csv   # used by build_training_data.py
+        └── test_data.csv    # used by eval/eval_local.py
 ```
 
 ## Training
