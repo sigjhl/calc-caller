@@ -122,8 +122,7 @@ Most remaining errors are clinical reading comprehension failures on complex mul
 
 ## License
 
-- **Code**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Model weights**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (inherited from MedCalc-Bench)
+- **Code & model weights**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Base model**: Subject to [HAI-DEF Terms of Use](https://developers.google.com/health-ai-developer-foundations/terms)
 
 ## Citation

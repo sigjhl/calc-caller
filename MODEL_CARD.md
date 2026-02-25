@@ -1,5 +1,5 @@
 ---
-license: cc-by-sa-4.0
+license: cc-by-4.0
 base_model: google/medgemma-1.5-4b-it
 library_name: transformers
 pipeline_tag: text-generation
@@ -162,7 +162,7 @@ AVAILABLE TOOLS:
 This model is a **Model Derivative** as defined in the [Health AI Developer Foundations (HAI-DEF) Terms of Use](https://developers.google.com/health-ai-developer-foundations/terms).
 
 - **Foundational model**: Use is subject to the [HAI-DEF Terms of Use](https://developers.google.com/health-ai-developer-foundations/terms) and the [HAI-DEF Prohibited Use Policy](https://developers.google.com/health-ai-developer-foundations/prohibited-use-policy).
-- **Training data**: These weights are released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) per the requirements of the MedCalc-Bench dataset. Any further fine-tuning or redistribution must use the same license.
+- **Model weights**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Medical disclaimer**: This model is not a medical device and is not intended for clinical use. It must not be used in any way that would cause a Health Regulatory Authority to deem Google to be a "manufacturer" of a medical device.
 
 ## Citation
